@@ -21,7 +21,7 @@ There are several competing solutions for how to effectively write and publish C
 * CSS in JS (Aphrodite, JSS, etc.)
 * Inline Styles (Radium, etc.)
 * CSS Modules (+ postCSS, etc.)
-* Traditional Stylesheets (_ LESS, SASS etc.)
+* Traditional Stylesheets (+ LESS, SASS etc.)
 
 At the moment the community is fragmented, and none of these solutions consistently solve all the concerns. 
 
