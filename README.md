@@ -37,7 +37,8 @@ _**WIP** please discuss requirements in the issues!_
 
 A complete CSS Components solution would include support for the following:
 
-* work well for open source components that are themeable and not opinionated about build requirements
+* work well for open source components that are themeable and not opinionated about build requirements (see [#3](https://github.com/css-components/spec/issues/3)
+* has a good solution for overriding styles on child elements (see [#5](https://github.com/css-components/spec/issues/5)
 * server side rendering
 * don’t break inline styles
 * fast at runtime (pre-buildable?)
