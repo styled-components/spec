@@ -4,7 +4,7 @@
 
 Design Requirements and Spec for a Component-oriented CSS Solution
 
-_**Note** the goal of this project at the moment is not to invent yet another CSS framework or library, but to discuss broader requirements and the state of the ecosystem as a whole - see #6_
+_**Note** the goal of this project at the moment is not to invent yet another CSS framework or library, but to discuss broader requirements and the state of the ecosystem as a whole - see [#6](https://github.com/css-components/spec/issues/6)_
 
 ---
 
