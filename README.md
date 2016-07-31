@@ -1,5 +1,7 @@
 # CSS Components Spec
 
+[![Join the chat at https://gitter.im/css-components/spec](https://badges.gitter.im/css-components/spec.svg)](https://gitter.im/css-components/spec?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Design Requirements and Spec for a Component-oriented CSS Solution
 
 _**Note** the goal of this project at the moment is not to invent yet another CSS framework or library, but to discuss broader requirements and the state of the ecosystem as a whole_
